@@ -2,10 +2,13 @@
 
   
 Entusiasta por:
-Testes De Software 🐞;
-UI/UX 🖥️ ;
-Linux/Ubuntu;
-RPA;
+ - Testes De Software 🐞;
+
+ - UI/UX 🖥️ ;
+
+ - Linux/Ubuntu 🐧;
+
+ - RPA 🤖;
 
 <!--
 **MatheusLuisCunha/MatheusLuisCunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
