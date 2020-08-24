@@ -1,7 +1,5 @@
-### Olá,👋
-
-  
 Entusiasta por:
+
  - Testes De Software 🐞;
 
  - UI/UX 🖥️ ;
